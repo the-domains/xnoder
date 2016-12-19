@@ -1,17 +1,17 @@
-typography_spectrum: 0.011218088679015636
+layout_spectrum: 0.7017887986458764
+typography_spectrum: 0.5674111362827001
 color:
-  brandStrength: 0.4749448571819812
-  lightness: 0.9875559348147362
-  saturation: 0.6360267167910933
-  rhythmicContrast: 0.6554250861518085
+  brandStrength: 0.9700486155178877
+  lightness: 0.5629998963173147
+  saturation: 0.8638051128083157
+  rhythmicContrast: 0.29119405224605804
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#6B0C22'
+    - '#D9042B'
+    - '#F4CB89'
+    - '#588C8C'
+    - '#011C26'
 github: true
-layout_spectrum: 0.9621239739935845
 author:
   name: Paul Stevens
   email: ps@xnode.co.za
