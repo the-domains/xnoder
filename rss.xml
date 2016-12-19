@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[xnoder in za]]></title>
+        <description><![CDATA[xnoder in za]]></description>
+        <link>https://thegrid.ai/xnoder/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 19 Dec 2016 06:31:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xnoder/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Mon, 19 Dec 2016 06:31:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[A random string]]></title>
+            <description><![CDATA[<article><h1>A random string</h1><p>I needed to generate a random, 32 character string to use as an encryption “secret” for an API that I’m working on, and came up with the following snippet:</p></article>]]></description>
+            <link>https://thegrid.ai/xnoder/a-random-string/index.html</link>
+            <guid isPermaLink="false">d3b52a23-537b-43c9-a7d7-fff37908b098</guid>
+            <pubDate>Mon, 19 Dec 2016 06:31:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
